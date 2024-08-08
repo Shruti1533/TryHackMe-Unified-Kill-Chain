@@ -179,5 +179,10 @@ For example, if the attack was financially motivated, they may seek to encrypt f
 
 ## Task 8: Practical
 Match the scenario prompt to the correct phase of the Unified Kill Chain to reveal the flag at the end. What is the flag?
+![Q1](https://github.com/Shruti1533/TryHackMe-Unified-Kill-Chain/blob/main/kill%20chain%20q1.png)
+![Q2](https://github.com/Shruti1533/TryHackMe-Unified-Kill-Chain/blob/main/image2.png)
+![Q3](https://github.com/Shruti1533/TryHackMe-Unified-Kill-Chain/blob/main/image3.png)
+![Q4](https://github.com/Shruti1533/TryHackMe-Unified-Kill-Chain/blob/main/image4.png)
+![Q5](https://github.com/Shruti1533/TryHackMe-Unified-Kill-Chain/blob/main/image5.png)
 
 **Flag:** THM{UKC_SCENARIO}
